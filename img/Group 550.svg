@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="464.5" height="524.217" viewBox="0 0 464.5 524.217">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#003465"/>
+      <stop offset="1" stop-color="#00b0ec"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" y1="0.874" x2="1" y2="0.292" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#db7120"/>
+      <stop offset="0.77" stop-color="#ffe163"/>
+      <stop offset="1" stop-color="#fcbb35"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" y1="0.874" x2="1" y2="0.292" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#b81c07"/>
+      <stop offset="0.155" stop-color="#d24411"/>
+      <stop offset="0.297" stop-color="#f57b1f"/>
+      <stop offset="0.49" stop-color="#fac349"/>
+      <stop offset="0.707" stop-color="#fff278"/>
+      <stop offset="1" stop-color="#ffff6d"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-4" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#000920"/>
+      <stop offset="0.339" stop-color="#005090"/>
+      <stop offset="0.628" stop-color="#00d3e5"/>
+      <stop offset="1" stop-color="aqua"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-5" x1="0.197" y1="1" x2="0.5" y2="0.055" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#f07a8d"/>
+      <stop offset="0.264" stop-color="#da2054"/>
+      <stop offset="0.54" stop-color="#c21848"/>
+      <stop offset="1" stop-color="#840b2c"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-6" y1="0.194" x2="0.921" y2="0.663" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#de7320"/>
+      <stop offset="0.77" stop-color="#fedf68"/>
+      <stop offset="1" stop-color="#fcb833"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-9" x1="0.197" y1="1" x2="0.5" y2="0.055" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fc9baa"/>
+      <stop offset="0.308" stop-color="#da2054"/>
+      <stop offset="0.491" stop-color="#c21848"/>
+      <stop offset="1" stop-color="#740523"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_550" data-name="Group 550" transform="translate(-106 -228.783)">
+    <g id="Group_34" data-name="Group 34" transform="translate(146.617 373.958)">
+      <text id="Convention" transform="translate(0 102.95)" fill="#00b1ff" font-size="60" font-family="Nunito-ExtraBold, Nunito" font-weight="800"><tspan x="0" y="0">CONVENTION</tspan></text>
+      <text id="_2023" data-name="2023" transform="translate(0 169.464)" fill="#ff5d73" font-size="70" font-family="Nunito-ExtraBold, Nunito" font-weight="800"><tspan x="0" y="0">2023</tspan></text>
+      <text id="_9_January_2023_Indore" data-name="9 January 2023
+Indore" transform="translate(175.355 137.464)" fill="#fff" font-size="28" font-family="Nunito-Bold, Nunito" font-weight="700"><tspan x="0" y="0">9 JANUARY 2023</tspan><tspan font-family="Nunito-ExtraBold, Nunito" font-weight="800"><tspan x="0" y="30">INDORE</tspan></tspan></text>
+      <text id="PBD" transform="translate(0 51)" fill="#f90" font-size="60" font-family="Nunito-ExtraBold, Nunito" font-weight="800"><tspan x="0" y="0">PBD</tspan></text>
+    </g>
+    <path id="Rectangle_1510" data-name="Rectangle 1510" d="M0,0H146a30,30,0,0,1,30,30V55a0,0,0,0,1,0,0H30A30,30,0,0,1,0,25V0A0,0,0,0,1,0,0Z" transform="translate(153 698)" fill="#fff"/>
+    <text id="REGISTER_NOW" data-name="REGISTER NOW" transform="translate(241 731)" fill="#3880df" font-size="16" font-family="Rubik-Medium, Rubik" font-weight="500" letter-spacing="0.01em"><tspan x="-58" y="0">REGISTER NOW</tspan></text>
+    <line id="Line_1" data-name="Line 1" x2="401" transform="translate(149.5 572.5)" fill="none" stroke="#0080b8" stroke-width="1"/>
+    <g id="Group_5977" data-name="Group 5977">
+      <g id="Group_3" data-name="Group 3" transform="translate(106 228.783)">
+        <g id="Group_1" data-name="Group 1" transform="translate(0 0)">
+          <path id="Path_12" data-name="Path 12" d="M79.4,39.352c0-3.68-1.41-6.442-5.964-6.442-5.013,0-11.4,2.891-20.224,10.351v0h0V151.15A26.188,26.188,0,0,0,79.4,124.962V39.352Z" transform="translate(-9.664 -5.976)" fill="url(#linear-gradient)"/>
+          <path id="Path_13" data-name="Path 13" d="M63.771,26.933c4.554,0,5.964,2.762,5.964,6.442h0V9.515C69.736,3.855,63.907,0,57.565,0c-8.219,0-15,3.81-24.3,11.683L0,39.805A26.19,26.19,0,0,0,36.907,42.9l6.64-5.613v0c8.824-7.46,15.211-10.351,20.224-10.351" transform="translate(0 0.001)" fill="url(#linear-gradient-2)"/>
+          <path id="Path_14" data-name="Path 14" d="M0,39.8c3.917,4.633,18.835.849,24.768-4.163C31.6,30.219,40.955,22.4,42.122,21.61v0c5.779-4.405,10.7-6.756,15.608-7.564a16.151,16.151,0,0,1,6.059.086,6.988,6.988,0,0,1,5.947,7.314V9.515C69.736,3.854,63.907,0,57.564,0c-8.219,0-15,3.81-24.3,11.683Z" transform="translate(0 0.001)" fill="url(#linear-gradient-3)"/>
+          <path id="Path_15" data-name="Path 15" d="M53.212,43.629V151.52c7.232,0,13.094-16.7,13.094-23.933V34.942c-3.685,1.58-7.978,4.362-13.094,8.687" transform="translate(-9.664 -6.345)" fill="url(#linear-gradient-4)"/>
+        </g>
+        <g id="Group_2" data-name="Group 2" transform="translate(80.356 0.001)">
+          <path id="Path_16" data-name="Path 16" d="M136.75,120.242c-9.122,9.122-12.122,16.941-12.122,28.734v12.488A26.187,26.187,0,0,0,150.816,135.3V106.176Z" transform="translate(-102.99 -19.283)" fill="url(#linear-gradient-5)"/>
+          <path id="Path_17" data-name="Path 17" d="M201.07,21.705A21.7,21.7,0,0,0,179.365,0H98.188a26.188,26.188,0,0,0,26.188,26.188h45.305A14.338,14.338,0,0,1,184.02,40.526c0,5.721-3.576,11.935-8.6,16.964l18.707-18.707a24.083,24.083,0,0,0,6.946-17.078" transform="translate(-98.188)" fill="url(#linear-gradient-6)"/>
+          <path id="Path_18" data-name="Path 18" d="M174.484,32,136.749,69.735c-9.121,9.122-12.121,16.941-12.121,28.734V135.5c0-11.792,3-19.612,12.121-28.734l18-18,25.47-25.47c5.028-5.029,8.6-11.242,8.6-16.964A14.338,14.338,0,0,0,174.484,32" transform="translate(-102.99 -5.812)" fill="url(#linear-gradient)"/>
+          <path id="Path_19" data-name="Path 19" d="M98.188,0h81.177A21.7,21.7,0,0,1,201.07,21.705a24.083,24.083,0,0,1-6.946,17.078L175.417,57.49c1.44-1.44,12-12.43,12.76-14.1a19.814,19.814,0,0,0,4.35-11.59q.018-.495.012-.988c-.111-8.632-6.116-17.716-21.461-17.716h-4.317s-44.869-.016-45.232-.046C113.264,13.048,98.188,6.86,98.188,0" transform="translate(-98.188)" fill="url(#linear-gradient-3)"/>
+          <path id="Path_20" data-name="Path 20" d="M136.75,123.15c-9.122,9.122-12.122,16.941-12.122,28.734v12.488c6.86,0,13.048-15.076,13.048-23.341.016-.183.027-9.565.034-18.841Z" transform="translate(-102.99 -22.191)" fill="url(#linear-gradient-9)"/>
+          <path id="Path_21" data-name="Path 21" d="M174.484,32h0L136.749,69.735c-9.121,9.122-12.121,16.941-12.121,28.734v18.518c0-11.13,2.683-18.709,10.7-27.219.437-.5,2.586-2.679,3.1-3.191L186.49,38.513A14.318,14.318,0,0,0,174.484,32" transform="translate(-102.99 -5.812)" fill="url(#linear-gradient-4)"/>
+        </g>
+      </g>
+      <text id="th" transform="translate(241.617 365.958)" fill="#00b1ff" font-size="30" font-family="Nunito-Bold, Nunito" font-weight="700"><tspan x="0" y="0">th</tspan></text>
+    </g>
+    <text id="Indian_diaspora_as_reliable_partner_in_growth_in_amrit_kaal_" data-name="Indian diaspora as reliable
+partner in growth in &apos;amrit kaal&apos;" transform="translate(149.5 615.422)" fill="#fff" font-size="22" font-family="Nunito-Bold, Nunito" font-weight="700"><tspan x="0" y="0">INDIAN DIASPORA AS RELIABLE</tspan><tspan x="0" y="28">PARTNER IN GROWTH IN &apos;AMRIT KAAL&apos;</tspan></text>
+  </g>
+</svg>
