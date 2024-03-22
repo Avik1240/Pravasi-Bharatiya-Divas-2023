@@ -96,7 +96,6 @@ header nav {
 }
 
 .btn {
-    height: 38px;
     border: 1px solid #FFFFFF;
     border-radius: 0px 15px;
     opacity: 1;
@@ -225,7 +224,7 @@ header nav {
     position: relative;
     margin-left: 28px;
     z-index: 10;
-    height: 200px;
+    padding-bottom: 20px;
 }
 
 .content_convention::after {
@@ -240,13 +239,11 @@ header nav {
 #pbd {
     font: normal normal bold 60px Rubik;
     color: #FCBB35;
-    height: 55px;
 }
 
 #con {
     font: normal normal bold 60px Rubik;
     color: #00B0EC;
-    height: 65px;
 }
 
 .content_convention span {
@@ -279,17 +276,14 @@ header nav {
 
 .reg {
     position: relative;
-    border-radius: 0px 30px;
+    border-radius: 0px 10px;
     font: normal normal 16px Rubik;
-    padding-left: 25px;
     margin-left: 28px;
     margin-top: 20px;
-    width: 170px;
-    height: 50px;
 }
 
 .reg:hover {
-    border-radius: 30px 0px;
+    border-radius: 10px 0px;
 }
 
 /*Banner Text Content ends here*/
@@ -507,16 +501,17 @@ header nav {
 .yt {
     margin-top: 33px;
     width: 128px;
-    height: 38px;
     background: transparent linear-gradient(114deg, #F858A2 0%, #FE585C 100%) 0% 0% no-repeat padding-box;
     border-radius: 0px 15px;
     opacity: 1;
     text-align: center;
-    font: normal normal normal 15px;
+    font: normal normal normal 15px Rubik;
     letter-spacing: 0px;
     transition: all 0.5s ease;
 }
-
+.valedictory{
+    margin-top: 60px;
+}
 .yt:hover {
     color: #fff;
     border-radius: 15px 0px;
@@ -564,6 +559,7 @@ header nav {
     background-image: url('../img/bg.png');
     content: '';
     position: absolute;
+    background-repeat: no-repeat;
     top: -180px;
     left: 0;
     background-size: 100% 100%;
@@ -578,6 +574,7 @@ header nav {
     flex-direction: row;
     align-items: center;
     justify-content: space-between;
+    margin-bottom: 2rem;
 }
 
 .conference h2 {
@@ -587,7 +584,6 @@ header nav {
     color: #FFFFFF;
     text-transform: uppercase;
     opacity: 1;
-    margin-bottom: 2rem;
 }
 
 .heading span {
@@ -623,6 +619,9 @@ header nav {
 /*"CONFERENCE" topbar ends here*/
 
 /*Conference Cards Swiper Section*/
+.conference_detail .cardSwiper{
+    height: 700px;
+}
 .conference_detail .swiper-slide .cards {
     display: flex;
     flex-direction: column;
@@ -689,10 +688,17 @@ header nav {
 
 
 /*Previous Events Section*/
+.back {
+    background-image: url('../img/PBD\ Logo.png');
+    background-repeat: no-repeat;
+    background-size: 70% 50%;
+    background-position-y: 50%;
+    background-position-x: 215%;
+    background-blend-mode: luminosity;
+}
 
 .prev_events {
     position: relative;
-    height: 650px;
 }
 
 /* .logo_back {
@@ -755,9 +761,10 @@ header nav {
 .gallery-container .gallery-main .swiper-wrapper .swiper-slide img {
     width: 929px;
     height: 450px;
-    border-radius: 0px 80px;
+    border-radius: 0px 90px;
     opacity: 0;
 }
+
 .gallery-container .gallery-main .swiper-wrapper .swiper-slide-active img {
     opacity: 1 !important;
     transition: 0.3s;
@@ -779,9 +786,11 @@ header nav {
     transition: all .5s ease;
     z-index: 2;
 }
+
 .gallery-container .gallery-main .swiper-wrapper .swiper-slide-active a {
     opacity: 1;
 }
+
 .gallery-main a:hover {
     background: transparent linear-gradient(274deg, #F858A2 0%, #FE585C 100%) 0% 0% no-repeat padding-box;
 }
@@ -990,11 +999,11 @@ header nav {
 
 /*Social Competitions Banner Section-> 1. Quiz*/
 .social_content .quiz {
+    border-radius: 0px 50px;
     margin-bottom: 40px;
     position: relative;
     background-image: url('../img/Rectangle\ 1999.svg');
     background-repeat: no-repeat;
-    width: 850px;
     height: 239px;
     overflow: hidden;
 }
@@ -1046,10 +1055,10 @@ header nav {
 
 /*Social Competitions Banner Section-> 2. Reasons*/
 .social_content .reason {
+    border-radius: 0px 50px;
     position: relative;
     background-image: url('../img/Rectangle\ 2002.svg');
     background-repeat: no-repeat;
-    width: 850px;
     height: 239px;
 }
 
@@ -1057,27 +1066,24 @@ header nav {
     position: absolute;
     left: 2.5%;
     top: 7.5%;
-    width: 380px;
-    height: 200px;
 }
 
 .social_content .reason img:nth-child(2) {
     position: absolute;
-    left: 53.5%;
-    top: 10%;
-    width: 130px;
-    height: 120px;
+    left: 53%;
+    top: 10.5%;
+    width: 140px;
 }
 
 .social_content .reason .reason_content {
     text-align: left;
     position: absolute;
     right: 3%;
-    top: 10.5%;
+    top: 7%;
 }
 
 .reason_content p:first-child {
-    font: normal normal bolder 40px Rubik;
+    font: normal normal bolder 42px Rubik;
     color: #fff;
     letter-spacing: 1px;
 }
@@ -1104,8 +1110,7 @@ header nav {
 }
 
 .social_details .post {
-    width: 416px;
-    height: 518px;
+    width: 100%;
     background: #FFFFFF 0% 0% no-repeat padding-box;
     box-shadow: 0px 10px 50px #7272723B;
     border-radius: 0px 60px;
@@ -1123,7 +1128,7 @@ header nav {
 
 .social_details .post img {
     width: 390px;
-    height: 480px;
+    height: 520px;
     padding: 0px 20px 16px 0px;
 }
 
