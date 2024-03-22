@@ -1,5 +1,387 @@
-@media only screen and (max-width: 991px) {
+/* @media only screen and (max-width: 575.98px) {
     .topstrip{
+        display: none;
+    }
+}
+@media only screen and (max-width: 767.98px) {
+    .topstrip{
+        display: none;
+    }
+} */
+
+
+@media only screen and (max-width: 1399px) {
+
+    /*Banner Section*/
+
+    /*Banner's Swiper*/
+    .swiper-pagination {
+        position: absolute !important;
+        bottom: 20% !important;
+        padding-right: 5%;
+    }
+
+    /*Banner's Swiper Section ends here*/
+
+    /*Banner Text Content*/
+
+
+    .convention span img {
+        width: 110px;
+    }
+
+    .convention span:first-child p {
+        left: 85px;
+        top: 75px;
+        font: normal normal bold 28px/12px Rubik;
+    }
+
+    .content_convention {
+        margin-left: 20px;
+    }
+
+    #pbd {
+        font: normal normal bold 50px Rubik;
+    }
+
+    #con {
+        font: normal normal bold 50px Rubik;
+    }
+
+    #year {
+        font: normal normal bold 50px Rubik;
+    }
+
+    #date {
+        font: normal normal bold 22px Rubik;
+    }
+
+    #indian {
+        margin-left: 20px;
+        font: normal normal 22px Rubik;
+    }
+
+    /*Banner Text Content ends here*/
+    /*Banner Section ends here*/
+
+
+    /*Event Section*/
+    .event_section span {
+        padding: 20px;
+        width: 300px;
+    }
+
+    /*Conference Section*/
+    .conference:before {
+        background-size: 100% 88%;
+    }
+
+    .conference_detail .cardSwiper {
+        height: 600px;
+    }
+
+    .conference_detail .swiper-slide .cards {
+        border-radius: 0px 50px;
+        height: 370px;
+    }
+
+    .conference_detail .swiper-slide .cards:hover {
+        height: 436px;
+    }
+
+    .imgwrap {
+        margin-top: 10px;
+    }
+
+    .imgwrap a img {
+        width: 330px;
+        height: 220px;
+    }
+
+    .cards p:nth-child(3) {
+        font-size: 16px;
+    }
+
+    /*Previous Events*/
+
+    .gallery-container .gallery-main .swiper-wrapper .swiper-slide img {
+        width: 740px;
+        height: 400px;
+    }
+
+    .gallery-main a {
+        top: 40%;
+        left: .0010%;
+    }
+
+    .gallery-thumbs {
+        height: 400px;
+    }
+
+    /*Video Section*/
+    .video {
+        height: 700px;
+    }
+
+    .video_content h2 span {
+        font-size: 40px;
+    }
+
+    /*Social Feeds*/
+    .social {
+        margin-top: 50px;
+    }
+
+
+
+    .social_content .quiz img:first-child{
+        width: 45%;
+        height: 140%;
+        top: -15%;
+        left: 7%;
+    }
+    .quiz_content{
+        left: 52%;
+    }
+    .quiz_content p:nth-child(2){
+        font-size: 30px;
+    }
+
+    .social_title{
+        font-size: 35px;
+    }
+    .social_details .post img{
+        width: 350px;
+    }
+    .social_content .reason img:first-child{
+        width: 350px;
+        height: 200px;
+    }
+    .social_content .reason img:nth-child(2) {
+        width: 130px;
+        left: 52%;
+    }
+    
+    .social_content .reason .reason_content {
+        right: 1%;
+        top: 8%;
+    }
+    
+    .reason_content p:first-child {
+        font: normal normal bolder 30px Rubik;
+    }
+    
+    .reason_content p:nth-child(2) {
+        font: normal normal 18px Rubik;
+    }
+    /*Footer Section*/
+    .icons {
+        text-align: left !important;
+    }
+
+    .media_handles {
+        margin-top: 20px;
+    }
+
+    .media_handles li {
+        padding-right: 0 !important;
+        text-align: center;
+    }
+
+    .media_handles li:first-child {
+        padding-right: 0 !important;
+        margin-left: 0px;
+    }
+
+    .media_handles li:nth-child(3) {
+        padding-right: 0 !important;
+    }
+
+    .media_handles li:nth-child(4) {
+        padding-right: 0 !important;
+    }
+}
+
+@media only screen and (max-width: 1199px) {
+
+    /*Banner Section*/
+
+    /*Banner's Swiper*/
+    .swiper-pagination {
+        position: absolute !important;
+        bottom: 20% !important;
+        padding-right: 5%;
+    }
+
+    /*Banner's Swiper Section ends here*/
+
+    /*Banner Text Content*/
+
+
+    .convention span img {
+        width: 100px;
+    }
+
+    .convention span:first-child p {
+        left: 80px;
+        top: 70px;
+        font: normal normal bold 25px/12px Rubik;
+    }
+
+    .content_convention {
+        margin-left: 20px;
+    }
+
+    #pbd {
+        font: normal normal bold 40px Rubik;
+    }
+
+    #con {
+        font: normal normal bold 40px Rubik;
+    }
+
+    #year {
+        font: normal normal bold 40px Rubik;
+    }
+
+    #date {
+        font: normal normal bold 18px Rubik;
+    }
+
+    #indian {
+        margin-left: 20px;
+        font: normal normal 18px Rubik;
+    }
+
+    .reg {
+        font: normal normal 16px Rubik;
+        margin-left: 40px;
+    }
+
+
+    /*Banner Text Content ends here*/
+    /*Banner Section ends here*/
+
+
+    .btn {
+        font-size: 13px;
+    }
+
+    /*Event Section*/
+    .event_section span {
+        padding: 20px;
+        width: 260px;
+    }
+
+    /*Conference Section*/
+    .conference:before {
+        background-size: 100% 88%;
+    }
+
+    .conference_detail .cardSwiper {
+        height: 600px;
+    }
+
+    .conference_detail .swiper-slide .cards {
+        border-radius: 0px 50px;
+        height: 350px;
+    }
+
+    .conference_detail .swiper-slide .cards:hover {
+        height: 416px;
+    }
+
+    .imgwrap {
+        margin-top: 10px;
+    }
+
+    .imgwrap a img {
+        width: 280px;
+        height: 200px;
+    }
+
+    .cards p:nth-child(3) {
+        font-size: 16px;
+    }
+
+    /*Previous Events*/
+
+
+    .gallery-container .gallery-main .swiper-wrapper .swiper-slide img {
+        width: 560px;
+        height: 400px;
+    }
+
+    .gallery-main a {
+        width: 80px;
+        height: 80px;
+        top: 40%;
+        left: .0007%;
+    }
+
+    .gallery-thumbs {
+        height: 400px;
+    }
+
+    /*Video Section*/
+    .video {
+        height: 700px;
+    }
+
+    .video_content h2 span {
+        font-size: 40px;
+    }
+
+    /*Social Feeds*/
+    .social {
+        margin-top: 50px;
+    }
+
+    .social_details {
+        margin-top: 20px;
+    }
+
+    .social_content .quiz,
+    .social_content .reason {
+        background-size: 100%;
+    }
+
+    .social_content .reason img:nth-child(2) {
+        left: 50%;
+    }
+    .social_content .reason .reason_content{
+        right: 8%;
+    }
+
+    /*Footer Section*/
+    .icons {
+        text-align: left !important;
+    }
+
+    .media_handles {
+        margin-top: 20px;
+    }
+
+    .media_handles li {
+        padding-right: 0 !important;
+        text-align: center;
+    }
+
+    .media_handles li:first-child {
+        padding-right: 0 !important;
+        margin-left: 0px;
+    }
+
+    .media_handles li:nth-child(3) {
+        padding-right: 0 !important;
+    }
+
+    .media_handles li:nth-child(4) {
+        padding-right: 0 !important;
+    }
+}
+@media only screen and (max-width: 992px) {
+    .topstrip {
         display: none;
     }
 }
